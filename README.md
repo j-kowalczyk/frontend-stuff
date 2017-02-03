@@ -27,11 +27,15 @@ https://www.youtube.com/watch?v=eWmkBNBTbMM - 2h tutorial
 
 ***Mobile***
 
-***PWA***
+PWA
 
 Progressive web app collection articles
 
 https://github.com/ragingwind/learning-pwa
+
+Ionic
+
+https://www.youtube.com/watch?v=Z1owDaNQEtk - Push notification (Angular 1/GCM/apps.ionic.io)
 
 ***Not sorted***
 
