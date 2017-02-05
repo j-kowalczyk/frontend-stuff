@@ -9,6 +9,10 @@ The future of ES6 (Jafar Husain) - Full Stack Fest 2016
 
 https://www.youtube.com/watch?v=3pKNRgResq0
 
+Promises
+
+https://caturday-post.herokuapp.com/ - look at source Promise.js file
+
 
 ***CSS***
 
@@ -20,8 +24,11 @@ https://www.youtube.com/watch?v=1OKZOV-iLj4
 
 Webpack
 https://www.youtube.com/watch?v=WQue1AN93YU - intro
+
 https://www.youtube.com/watch?v=9kJVYpOqcVU
+
 https://www.sitepoint.com/beginners-guide-to-webpack-2-and-module-bundling/
+
 https://www.youtube.com/watch?v=eWmkBNBTbMM - 2h tutorial
 
 
@@ -33,9 +40,20 @@ Progressive web app collection articles
 
 https://github.com/ragingwind/learning-pwa
 
+RWD
+
+http://www.creativebloq.com/rwd/responsive-design-problems-12142790 - 8 RWD problems
+
+http://bradfrost.com/blog/web/responsive-nav-patterns/ - responsive patterns
+
 Ionic
 
 https://www.youtube.com/watch?v=Z1owDaNQEtk - Push notification (Angular 1/GCM/apps.ionic.io)
+
+Hybrid Apps
+
+https://remysharp.com/2016/05/28/state-of-the-gap - State of the gap (2016)
+
 
 ***Not sorted***
 
