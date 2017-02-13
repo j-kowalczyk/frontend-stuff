@@ -1,5 +1,7 @@
 # frontend-stuff
-Presentations, videos, texts, link for frontend
+Presentations, videos, texts, link for frontend.
+
+Feel free to pull request and/or fork!
 
 ***JS***
 
@@ -10,16 +12,47 @@ The future of ES6 (Jafar Husain) - Full Stack Fest 2016
 
 https://www.youtube.com/watch?v=3pKNRgResq0
 
+https://philna.sh/blog/2017/02/09/toast-to-es2015-destructuring/ - destructuring
+
+https://github.com/paraboul/between/ - use of Proxy
+
+
+https://hackernoon.com/polyfills-everything-you-ever-wanted-to-know-or-maybe-a-bit-less-7c8de164e423#.zf0pz5m0b - Polyfills of unavailable ES6 code
+
 *Promises*
 
 https://caturday-post.herokuapp.com/ - look at source Promise.js file
 
+*Performance and speed*
+
+https://medium.com/dev-channel/javascript-start-up-performance-69200f43b201#.e2f9hpdru - article about performance, V8, Chrome and few sources under the article
+
+https://hackernoon.com/a-guide-to-cross-browser-testing-installing-all-the-things-6e56c2bd8182#.puu72bxf2 - cross-browser testing
+
+blog.dynamicdrive.com/5-brilliant-ways-to-lazy-load-images-for-faster-page-loads/ - 5 ways to load images faster
+
+*Angular 2*
+
+https://ponyfoo.com/articles/setting-up-angular-2-development-environment - setting up the Angular2 development
 
 ***CSS***
+
+*Flexbox*
+
+https://medium.freecodecamp.com/an-animated-guide-to-flexbox-d280cf6afc35#.bo6t7nj8f - how it works (version with pictures :) )
 
 *ITCSS*
 
 https://www.youtube.com/watch?v=1OKZOV-iLj4
+
+*Other*
+
+https://www.sitepoint.com/css-pseudo-classes-styling-form-fields-based-on-their-input/ - pseudoclasses
+https://balzss.github.io/luxbar/ - Luxbar: CSS only navigation bar
+
+***SVG***
+
+https://www.sitepoint.com/introducing-graphicsjs-a-powerful-lightweight-graphics-library - Graphic library which uses SVG
 
 ***Tools***
 
@@ -32,6 +65,16 @@ https://www.youtube.com/watch?v=9kJVYpOqcVU
 https://www.sitepoint.com/beginners-guide-to-webpack-2-and-module-bundling/
 
 https://www.youtube.com/watch?v=eWmkBNBTbMM - 2h tutorial
+
+https://advancedweb.hu/2017/02/07/treeshaking - performance in Webpack (Treeshaking)
+
+*Libraries and helpers*
+
+https://yomguithereal.github.io/mnemonist/ - data structure in JS (heap, trie etc.)
+
+https://github.com/tunnckoCore/gibon - simple, tiny (600kb) router in JS based on HTML5 History
+
+jsmpeg.com/ - MPEG1 and MPEG2 decoder in JS
 
 
 ***Mobile***
@@ -58,6 +101,16 @@ https://agingcoder.com/mobile/2016/09/25/the-state-of-html-mobile-frameworks-in-
 *Ionic*
 
 https://www.youtube.com/watch?v=Z1owDaNQEtk - Push notification (Angular 1/GCM/apps.ionic.io)
+
+https://javebratt.com/angular-translate-ionic/ - angular-translate
+
+https://www.toptal.com/ionic/ionic-1-vs-ionic-2-key-differences - Ionic 1 vs Ionic 2
+
+*Other*
+https://blog.hospodarets.com/web-share-api - WebShare API
+
+https://uxplanet.org/building-great-mobile-forms-2fa8e9a258cc#.suhi4djtv - making mobile forms
+
 
 
 ***Not sorted***
