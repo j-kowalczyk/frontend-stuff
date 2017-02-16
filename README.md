@@ -45,10 +45,22 @@ https://medium.freecodecamp.com/an-animated-guide-to-flexbox-d280cf6afc35#.bo6t7
 
 https://www.youtube.com/watch?v=1OKZOV-iLj4
 
+*Performance*
+
+https://www.sitepoint.com/achieve-60-fps-mobile-animations-with-css3/ - 60fps@CSS3
+
+https://blog.uploadcare.com/5-steps-to-better-responsive-images-d7cf91e261f4#.c7v957l14 - better responsive images
+
 *Other*
 
 https://www.sitepoint.com/css-pseudo-classes-styling-form-fields-based-on-their-input/ - pseudoclasses
 https://balzss.github.io/luxbar/ - Luxbar: CSS only navigation bar
+
+***HTML5***
+
+https://mobiforge.com/design-development/html5-mobile-web-forms-and-input-types - input type forms
+
+filipbech.github.io/2017/02/service-worker-and-caching-from-other-origins - Service workers and catching from other origins
 
 ***SVG***
 
@@ -83,6 +95,7 @@ jsmpeg.com/ - MPEG1 and MPEG2 decoder in JS
 
 https://github.com/ragingwind/learning-pwa - Progressive web app collection articles
 
+https://medium.com/web-on-the-edge/manifoldjs-is-becoming-pwa-builder-to-simplify-building-progressive-web-apps-49bff31f9380#.hpu3vn1ti - Manifold
 
 *RWD*
 
@@ -105,6 +118,12 @@ https://www.youtube.com/watch?v=Z1owDaNQEtk - Push notification (Angular 1/GCM/a
 https://javebratt.com/angular-translate-ionic/ - angular-translate
 
 https://www.toptal.com/ionic/ionic-1-vs-ionic-2-key-differences - Ionic 1 vs Ionic 2
+
+webjunto.com/5-tricks-make-ionic-app-look-better/ - better look ionic
+
+*NativeScript*
+
+https://www.thepolyglotdeveloper.com/2017/02/use-visually-appealing-fancy-alerts-nativescript-angular-application
 
 *Other*
 https://blog.hospodarets.com/web-share-api - WebShare API
