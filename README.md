@@ -56,11 +56,16 @@ https://blog.uploadcare.com/5-steps-to-better-responsive-images-d7cf91e261f4#.c7
 https://www.sitepoint.com/css-pseudo-classes-styling-form-fields-based-on-their-input/ - pseudoclasses
 https://balzss.github.io/luxbar/ - Luxbar: CSS only navigation bar
 
+
 ***HTML5***
 
 https://mobiforge.com/design-development/html5-mobile-web-forms-and-input-types - input type forms
 
-filipbech.github.io/2017/02/service-worker-and-caching-from-other-origins - Service workers and catching from other origins
+http://filipbech.github.io/2017/02/service-worker-and-caching-from-other-origins - Service workers and catching from other origins
+
+https://github.com/Modernizr/Modernizr/wiki/HTML5-Cross-browser-Polyfills - about Polyfills (SVG, Canvas, Video, WebStorage, Audio, WebForms, WebWorkers, WebSockets, GeoLocation, AppCache, History, File API, WebGL, WebSQL, IndexedDB)
+
+http://www.html5please.com - Advices on which Polyfill to use (if any)
 
 ***SVG***
 
