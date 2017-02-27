@@ -5,7 +5,7 @@ Feel free to pull request and/or fork!
 
 ***JS***
 
-*ES6*
+* ES6
 
 Full Stack Fest 2016 
 The future of ES6 (Jafar Husain) - Full Stack Fest 2016
@@ -16,10 +16,9 @@ https://philna.sh/blog/2017/02/09/toast-to-es2015-destructuring/ - destructuring
 
 https://github.com/paraboul/between/ - use of Proxy
 
-
 https://hackernoon.com/polyfills-everything-you-ever-wanted-to-know-or-maybe-a-bit-less-7c8de164e423#.zf0pz5m0b - Polyfills of unavailable ES6 code
 
-*Promises*
+* Promises
 
 https://caturday-post.herokuapp.com/ - look at source Promise.js file
 
@@ -31,27 +30,31 @@ https://hackernoon.com/a-guide-to-cross-browser-testing-installing-all-the-thing
 
 blog.dynamicdrive.com/5-brilliant-ways-to-lazy-load-images-for-faster-page-loads/ - 5 ways to load images faster
 
-*Angular 2*
+* Angular 2
 
 https://ponyfoo.com/articles/setting-up-angular-2-development-environment - setting up the Angular2 development
 
+* Ember
+
+http://www.jeffreybiles.com/build-pacman/ - Great tutorial. It's about Ember, but it mostly about gamedev, maths and Canvas. There also some concept of the OOP, modules, arrow functions and other ES6 stuff in practice. Each chapter is preceded by short story which is greate. SImplicity of the language used here's nice too. It's good for unexperienced such as experienced developers. Some bad things happens at chapter 13-14, but if we survive it, later everything will be awesome in next place.
+
 ***CSS***
 
-*Flexbox*
+* Flexbox
 
 https://medium.freecodecamp.com/an-animated-guide-to-flexbox-d280cf6afc35#.bo6t7nj8f - how it works (version with pictures :) )
 
-*ITCSS*
+* ITCSS
 
 https://www.youtube.com/watch?v=1OKZOV-iLj4
 
-*Performance*
+* Performance
 
 https://www.sitepoint.com/achieve-60-fps-mobile-animations-with-css3/ - 60fps@CSS3
 
 https://blog.uploadcare.com/5-steps-to-better-responsive-images-d7cf91e261f4#.c7v957l14 - better responsive images
 
-*Other*
+* Other
 
 https://www.sitepoint.com/css-pseudo-classes-styling-form-fields-based-on-their-input/ - pseudoclasses
 https://balzss.github.io/luxbar/ - Luxbar: CSS only navigation bar
@@ -73,7 +76,7 @@ https://www.sitepoint.com/introducing-graphicsjs-a-powerful-lightweight-graphics
 
 ***Tools***
 
-*Webpack*
+* Webpack
 
 https://www.youtube.com/watch?v=WQue1AN93YU - intro
 
@@ -85,7 +88,7 @@ https://www.youtube.com/watch?v=eWmkBNBTbMM - 2h tutorial
 
 https://advancedweb.hu/2017/02/07/treeshaking - performance in Webpack (Treeshaking)
 
-*Libraries and helpers*
+* Libraries and helpers
 
 https://yomguithereal.github.io/mnemonist/ - data structure in JS (heap, trie etc.)
 
@@ -96,19 +99,19 @@ jsmpeg.com/ - MPEG1 and MPEG2 decoder in JS
 
 ***Mobile***
 
-*PWA*
+* PWA
 
 https://github.com/ragingwind/learning-pwa - Progressive web app collection articles
 
 https://medium.com/web-on-the-edge/manifoldjs-is-becoming-pwa-builder-to-simplify-building-progressive-web-apps-49bff31f9380#.hpu3vn1ti - Manifold
 
-*RWD*
+* RWD
 
 http://www.creativebloq.com/rwd/responsive-design-problems-12142790 - 8 RWD problems
 
 http://bradfrost.com/blog/web/responsive-nav-patterns/ - responsive patterns
 
-*Hybrid Apps*
+* Hybrid Apps
 
 https://remysharp.com/2016/05/28/state-of-the-gap - State of the gap (2016)
 
@@ -116,7 +119,7 @@ http://stateofjs.com/2016/mobile/ - frameworks (chart)
 
 https://agingcoder.com/mobile/2016/09/25/the-state-of-html-mobile-frameworks-in-2016/ - frameworks (text)
 
-*Ionic*
+* Ionic
 
 https://www.youtube.com/watch?v=Z1owDaNQEtk - Push notification (Angular 1/GCM/apps.ionic.io)
 
@@ -126,11 +129,11 @@ https://www.toptal.com/ionic/ionic-1-vs-ionic-2-key-differences - Ionic 1 vs Ion
 
 webjunto.com/5-tricks-make-ionic-app-look-better/ - better look ionic
 
-*NativeScript*
+* NativeScript
 
 https://www.thepolyglotdeveloper.com/2017/02/use-visually-appealing-fancy-alerts-nativescript-angular-application
 
-*Other*
+* Other
 https://blog.hospodarets.com/web-share-api - WebShare API
 
 https://uxplanet.org/building-great-mobile-forms-2fa8e9a258cc#.suhi4djtv - making mobile forms
@@ -139,6 +142,6 @@ https://uxplanet.org/building-great-mobile-forms-2fa8e9a258cc#.suhi4djtv - makin
 
 ***Not sorted***
 
-*Full Stack Fest 2016* 
+* Full Stack Fest 2016
 
 https://www.youtube.com/watch?v=fnG7BE_FMjo&list=PLe9psSNJBf76DOOKMkDpyo_A5PfZk7JWc&index=1 - full playlist
