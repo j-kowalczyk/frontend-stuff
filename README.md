@@ -5,6 +5,12 @@ Feel free to pull request and/or fork!
 
 ***JS***
 
+* Closures
+
+https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-closure-b2f0d2152b36#.4z9fmss0y
+
+http://stackoverflow.com/questions/111102/how-do-javascript-closures-work - closures with nice examples
+
 * ES6
 
 Full Stack Fest 2016 
