@@ -64,6 +64,7 @@ https://blog.uploadcare.com/5-steps-to-better-responsive-images-d7cf91e261f4#.c7
 
 https://www.sitepoint.com/css-pseudo-classes-styling-form-fields-based-on-their-input/ - pseudoclasses
 https://balzss.github.io/luxbar/ - Luxbar: CSS only navigation bar
+https://css-tricks.com/box-sizing/ - box-sizing
 
 
 ***HTML5***
