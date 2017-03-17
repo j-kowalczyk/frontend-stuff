@@ -38,7 +38,11 @@ blog.dynamicdrive.com/5-brilliant-ways-to-lazy-load-images-for-faster-page-loads
 
 * Angular
 
+http://www.angularbasics.co.uk/?Id=99# - nice(r than Google's) Angular documentation
+
 https://github.com/johnpapa/angular-styleguide#style-y080 - Angular styleguides (both for v1 and v2) by John Papa and friends
+
+http://www.codelord.net/2015/12/17/angulars-component-what-is-it-good-for/ - Angular's 1.5 Components decribed
 
 * Angular 2
 
@@ -69,6 +73,7 @@ https://blog.uploadcare.com/5-steps-to-better-responsive-images-d7cf91e261f4#.c7
 https://www.sitepoint.com/css-pseudo-classes-styling-form-fields-based-on-their-input/ - pseudoclasses
 https://balzss.github.io/luxbar/ - Luxbar: CSS only navigation bar
 https://css-tricks.com/box-sizing/ - box-sizing
+http://phrogz.net/css/vertical-align/ - how to center vertically
 
 
 ***HTML5***
