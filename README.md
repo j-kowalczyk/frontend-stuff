@@ -36,6 +36,10 @@ https://hackernoon.com/a-guide-to-cross-browser-testing-installing-all-the-thing
 
 blog.dynamicdrive.com/5-brilliant-ways-to-lazy-load-images-for-faster-page-loads/ - 5 ways to load images faster
 
+* Angular
+
+https://github.com/johnpapa/angular-styleguide#style-y080 - Angular styleguides (both for v1 and v2) by John Papa and friends
+
 * Angular 2
 
 https://ponyfoo.com/articles/setting-up-angular-2-development-environment - setting up the Angular2 development
