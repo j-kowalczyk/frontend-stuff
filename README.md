@@ -7,7 +7,7 @@ Feel free to  use it and pull request!
 
 ### Closures
 
-https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-closure-b2f0d2152b36#.4z9fmss0y
+https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-closure-b2f0d2152b36
 
 http://stackoverflow.com/questions/111102/how-do-javascript-closures-work - closures with nice examples
 
@@ -22,7 +22,7 @@ https://www.youtube.com/watch?v=cCOL7MC4Pl0 - In the loop
 
 ### Adding floats
 
-*TBD*
+https://www.youtube.com/watch?v=MqHDDtVYJRI - " Everything you never wanted to know about JavaScript numbers "
 
 ### Performance and speed
 
@@ -31,6 +31,10 @@ https://medium.com/dev-channel/javascript-start-up-performance-69200f43b201#.e2f
 https://hackernoon.com/a-guide-to-cross-browser-testing-installing-all-the-things-6e56c2bd8182#.puu72bxf2 - cross-browser testing
 
 blog.dynamicdrive.com/5-brilliant-ways-to-lazy-load-images-for-faster-page-loads/ - 5 ways to load images faster
+
+https://molily.de/robust-javascript/
+
+https://github.com/cowchimp/headless-devtools
 
 
 ## ES2015/6+ 
@@ -45,6 +49,16 @@ https://philna.sh/blog/2017/02/09/toast-to-es2015-destructuring/ - destructuring
 ### Proxy
 https://github.com/paraboul/between/ - use of Proxy
 
+### async/await
+
+https://www.toptal.com/javascript/asynchronous-javascript-async-await-tutorial
+
+### WebAssembly
+
+https://www.youtube.com/watch?v=vmzz17JGPHI - "WebAssembly: birth of a virtual ISA"
+
+https://hacks.mozilla.org/2018/01/making-webassembly-even-faster-firefoxs-new-streaming-and-tiering-compiler/
+
 ### In general
 https://www.youtube.com/watch?v=3pKNRgResq0 - "The future of ES6" (Jafar Husain) - Full Stack Fest 2016
 
@@ -54,9 +68,9 @@ https://github.com/getify/You-Dont-Know-JS/tree/master/es6%20%26%20beyond - Kyle
 
 https://www.youtube.com/watch?v=fnG7BE_FMjo&list=PLe9psSNJBf76DOOKMkDpyo_A5PfZk7JWc&index=1 - full playlist
 
-### WebAssembly
+https://www.youtube.com/watch?v=NCGLPp778JY - "Web APIs you [probably] didn’t know existed"
 
-https://www.youtube.com/watch?v=vmzz17JGPHI - "WebAssembly: birth of a virtual ISA"
+https://davidwalsh.name/es7-es8-features - String.padStart, Object.entries, Object.values, Array.prototype.includes, Exponentiation, trailing commas, async / await
 
 
 ## Frameworks
@@ -73,16 +87,31 @@ http://www.codelord.net/2015/12/17/angulars-component-what-is-it-good-for/ - Ang
 
 https://ponyfoo.com/articles/setting-up-angular-2-development-environment - setting up the Angular2 development
 
+https://github.com/mgechev/ngrev - angular reverse engineering
+
+https://medium.com/@victormejia/setting-up-prettier-in-an-angular-cli-project-2f50c3b9a537 - Prettier in Angular CLI Project
+
 ### Ember
 
 http://www.jeffreybiles.com/build-pacman/ - Great tutorial. It's about Ember, but it mostly about gamedev, maths and Canvas. There also some concept of the OOP, modules, arrow functions and other ES6 stuff in practice. Each chapter is preceded by short story which is greate. SImplicity of the language used here's nice too. It's good for unexperienced such as experienced developers. Some bad things happens at chapter 13-14, but if we survive it, later everything will be awesome in next place.
 
 ### Vue
-*TBD*
+
+https://frontstuff.io/build-your-first-vue-js-component
+
+https://engineering.doximity.com/articles/five-traps-to-avoid-while-unit-testing-vue-js
+
+https://ejdraper.com/2018/01/17/tic-tac-toe-with-vuejs/
 
 ### React
 
 https://www.youtube.com/watch?v=pLvrZPSzHxo - Immutable UIs
+
+https://medium.com/@michaelsholty/transitioning-your-marionette-app-to-react-4b94ddefafd1
+
+### Aurelia
+
+http://aurelia.io/blog/2018/01/03/aurelia-2018-roadmap/ 
 
 ### Compile-to-JS languages
 
@@ -90,8 +119,17 @@ https://www.youtube.com/watch?v=rDQ22Yg3Fms - Elm
 
 https://www.typescriptlang.org/docs/home.html - TypeScript
 
+https://www.youtube.com/watch?v=0ChtcZmb3dI - TS
+
 ### Other
+
 https://www.youtube.com/watch?v=xs_QRqGZ8xQ - "Beyond The Tab: Executing JavaScript Across Browser Contexts", Service Workers
+
+https://www.youtube.com/watch?v=8UqHCrGdxOM - "Reverse engineering obfuscated JavaScript - PopUnder Chrome 59"
+
+https://air.ghost.io/js-things-i-never-knew-existed/ - some interesting things
+
+https://javascriptreport.com/the-ultimate-guide-to-javascript-frameworks/ - framework reviews
 
 ---
 
@@ -106,7 +144,9 @@ https://medium.freecodecamp.com/an-animated-guide-to-flexbox-d280cf6afc35#.bo6t7
 ### Grid
 
 http://chris.house/blog/a-complete-guide-css-grid-layout
+
 https://www.youtube.com/watch?v=axVw1Zduqn0
+
 http://igalia.github.io/css-grid-layout/enable.html
 
 ## Methodologies
@@ -128,8 +168,11 @@ https://blog.uploadcare.com/5-steps-to-better-responsive-images-d7cf91e261f4#.c7
 ## Other
 
 https://www.sitepoint.com/css-pseudo-classes-styling-form-fields-based-on-their-input/ - pseudoclasses
+
 https://balzss.github.io/luxbar/ - Luxbar: CSS only navigation bar
+
 https://css-tricks.com/box-sizing/ - box-sizing
+
 http://phrogz.net/css/vertical-align/ - how to center vertically
 
 ---
@@ -165,6 +208,14 @@ https://www.sitepoint.com/beginners-guide-to-webpack-2-and-module-bundling/
 https://www.youtube.com/watch?v=eWmkBNBTbMM - 2h tutorial
 
 https://advancedweb.hu/2017/02/07/treeshaking - performance in Webpack (Treeshaking)
+
+https://react-etc.net/entry/json-tree-shaking-lands-in-webpack-4-0  - JSON treeshaking
+
+https://slack.engineering/keep-webpack-fast-a-field-guide-for-better-build-performance-f56a5995e8f1
+
+https://github.com/zouhir/jarvis
+
+https://www.npmjs.com/package/moment-locales-webpack-plugin - unused moment library things
 
 ### Libraries and helpers
 
