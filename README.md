@@ -11,22 +11,36 @@ https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-cl
 
 http://stackoverflow.com/questions/111102/how-do-javascript-closures-work - closures with nice examples
 
-* ES6
+* Hoisting
+*TBD
 
-Full Stack Fest 2016 
-The future of ES6 (Jafar Husain) - Full Stack Fest 2016
+* Event loop
+https://www.youtube.com/watch?v=8aGhZQkoFbQ - What the heck is event loop anyway
+https://www.youtube.com/watch?v=cCOL7MC4Pl0 - In the loop
 
-https://www.youtube.com/watch?v=3pKNRgResq0
+* Adding floats
 
-https://philna.sh/blog/2017/02/09/toast-to-es2015-destructuring/ - destructuring
-
-https://github.com/paraboul/between/ - use of Proxy
-
-https://hackernoon.com/polyfills-everything-you-ever-wanted-to-know-or-maybe-a-bit-less-7c8de164e423#.zf0pz5m0b - Polyfills of unavailable ES6 code
 
 * Promises
 
 https://caturday-post.herokuapp.com/ - look at source Promise.js file
+
+* Destructuring
+https://philna.sh/blog/2017/02/09/toast-to-es2015-destructuring/ - destructuring
+
+* Proxy
+https://github.com/paraboul/between/ - use of Proxy
+
+* ES2015/6+ in general
+
+Full Stack Fest 2016 
+
+https://www.youtube.com/watch?v=3pKNRgResq0 - The future of ES6 (Jafar Husain) - Full Stack Fest 2016
+
+https://hackernoon.com/polyfills-everything-you-ever-wanted-to-know-or-maybe-a-bit-less-7c8de164e423#.zf0pz5m0b - Polyfills of unavailable ES6 code
+https://github.com/getify/You-Dont-Know-JS/tree/master/es6%20%26%20beyond - Kyle Simpson's book about ES6 and further
+https://www.youtube.com/watch?v=fnG7BE_FMjo&list=PLe9psSNJBf76DOOKMkDpyo_A5PfZk7JWc&index=1 - full playlist
+
 
 *Performance and speed*
 
@@ -36,7 +50,7 @@ https://hackernoon.com/a-guide-to-cross-browser-testing-installing-all-the-thing
 
 blog.dynamicdrive.com/5-brilliant-ways-to-lazy-load-images-for-faster-page-loads/ - 5 ways to load images faster
 
-* Angular
+* AngularJS
 
 http://www.angularbasics.co.uk/?Id=99# - nice(r than Google's) Angular documentation
 
@@ -44,13 +58,23 @@ https://github.com/johnpapa/angular-styleguide#style-y080 - Angular styleguides 
 
 http://www.codelord.net/2015/12/17/angulars-component-what-is-it-good-for/ - Angular's 1.5 Components decribed
 
-* Angular 2
+* Angular
 
 https://ponyfoo.com/articles/setting-up-angular-2-development-environment - setting up the Angular2 development
 
 * Ember
 
 http://www.jeffreybiles.com/build-pacman/ - Great tutorial. It's about Ember, but it mostly about gamedev, maths and Canvas. There also some concept of the OOP, modules, arrow functions and other ES6 stuff in practice. Each chapter is preceded by short story which is greate. SImplicity of the language used here's nice too. It's good for unexperienced such as experienced developers. Some bad things happens at chapter 13-14, but if we survive it, later everything will be awesome in next place.
+
+* Vue
+*TBD*
+
+* React
+https://www.youtube.com/watch?v=pLvrZPSzHxo - Immutable UIs
+
+* Compile-to-JS languages
+https://www.youtube.com/watch?v=rDQ22Yg3Fms - Elm
+
 
 ***CSS***
 
@@ -61,6 +85,8 @@ https://medium.freecodecamp.com/an-animated-guide-to-flexbox-d280cf6afc35#.bo6t7
 * Grid
 
 http://chris.house/blog/a-complete-guide-css-grid-layout
+https://www.youtube.com/watch?v=axVw1Zduqn0
+http://igalia.github.io/css-grid-layout/enable.html
 
 * ITCSS
 
@@ -164,4 +190,4 @@ https://uxplanet.org/building-great-mobile-forms-2fa8e9a258cc#.suhi4djtv - makin
 
 * Full Stack Fest 2016
 
-https://www.youtube.com/watch?v=fnG7BE_FMjo&list=PLe9psSNJBf76DOOKMkDpyo_A5PfZk7JWc&index=1 - full playlist
+
