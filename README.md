@@ -225,7 +225,9 @@ https://canjs.com/doc/guides/recipes/canvas-clock.html - CanJS
 
 https://www.telerik.com/blogs/how-to-javascript-in-2018
 
-https://github.com/yangshun/front-end-interview-handbook - answer on interview
+https://github.com/yangshun/front-end-interview-handbook - answers on frontend interviews
+
+https://blog.machinebox.io/face-verify-js-monitoring-who-is-looking-at-a-website-for-additional-security-1d6025a8fedd
 
 ---
 
@@ -455,4 +457,3 @@ https://scotthelme.co.uk/protect-site-from-cryptojacking-csp-sri/
 
 ## Not sorted
 
-https://blog.machinebox.io/face-verify-js-monitoring-who-is-looking-at-a-website-for-additional-security-1d6025a8fedd
