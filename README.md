@@ -40,6 +40,8 @@ https://rollbar.com/blog/top-10-javascript-errors/
 
 https://www.smashingmagazine.com/2018/02/javascript-firefox-debugger/ - Firefox Debugging
 
+https://medium.com/appsflyer/10-tips-for-javascript-debugging-like-a-pro-with-console-7140027eb5f6 - use console object like a pro
+
 
 ## ES2015/6+ 
 
@@ -66,6 +68,8 @@ https://github.com/paraboul/between/ - use of Proxy
 https://www.toptal.com/javascript/asynchronous-javascript-async-await-tutorial
 
 https://start.jcolemorrison.com/5-tips-and-thoughts-on-async-await-functions/
+
+https://github.com/asfktz/Awaity.js - async/await lib
 
 ### Template literals
 
@@ -108,6 +112,10 @@ http://2ality.com/2016/10/rest-spread-properties.html - rest/sread ES2018
 
 http://exploringjs.com/es2018-es2019/ - ES2018/2019
 
+https://github.com/gilbert/es-papp - papp proposal and polyfill
+
+https://slidr.io/mathiasbynens/what-s-new-in-es2018#7 - ES2018 presentation
+
 
 ## Frameworks
 
@@ -128,6 +136,8 @@ https://github.com/mgechev/ngrev - angular reverse engineering
 https://medium.com/@victormejia/setting-up-prettier-in-an-angular-cli-project-2f50c3b9a537 - Prettier in Angular CLI Project
 
 https://juristr.com/blog/2018/01/ng-app-runtime-config/ - some performance to Angular
+
+https://www.youtube.com/watch?v=KVjaVHZG32w - testing Angular components fundamentals
 
 ### Ember
 
@@ -158,6 +168,8 @@ http://stackabuse.com/single-page-apps-with-vue-js-and-flask-state-management-wi
 https://www.raymondcamden.com/2018/02/14/building-a-text-based-adventure-in-vuejs/ - writing text adventure game
 
 https://github.com/vuetifyjs/vuetify
+
+https://github.com/pulsardev/vue-tour - vue-tour plugin
 
 ### React
 
