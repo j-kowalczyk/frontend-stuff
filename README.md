@@ -339,7 +339,7 @@ https://github.com/photonstorm/phaser
 
 ### WebRTC
 
-*TBD*
+https://blog.sessionstack.com/how-javascript-works-webrtc-and-the-mechanics-of-peer-to-peer-connectivity-87cc56c1d0ab
 
 ### GamePad API
 
