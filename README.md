@@ -199,7 +199,7 @@ https://blogs.msdn.microsoft.com/typescript/2018/01/31/announcing-typescript-2-7
 
 ### RxJS
 
-*TBD (are there any good resources?)*
+https://www.learnrxjs.io/
 
 ### Other
 
