@@ -139,6 +139,8 @@ https://juristr.com/blog/2018/01/ng-app-runtime-config/ - some performance to An
 
 https://www.youtube.com/watch?v=KVjaVHZG32w - testing Angular components fundamentals
 
+https://colorlib.com/wp/angular-components/ - a collection of nice reusable Angular components
+
 ### Ember
 
 http://www.jeffreybiles.com/build-pacman/ - Great tutorial. It's about Ember, but it mostly about gamedev, maths and Canvas. There also some concept of the OOP, modules, arrow functions and other ES6 stuff in practice. Each chapter is preceded by short story which is greate. SImplicity of the language used here's nice too. It's good for unexperienced such as experienced developers. Some bad things happens at chapter 13-14, but if we survive it, later everything will be awesome in next place.
