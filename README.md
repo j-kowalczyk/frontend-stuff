@@ -338,6 +338,8 @@ https://www.rdegges.com/2018/please-stop-using-local-storage/ - guy's not a fan
 ### WebGL
 
 https://github.com/photonstorm/phaser
+http://twgljs.org/ - TWGL: A Tiny WebGL helper Library
+https://www.tutorialspoint.com/webgl/ - WebGL tutorial
 
 ### WebRTC
 
@@ -416,6 +418,7 @@ https://github.com/wearehive/project-guidelines - few advices on creating fronte
 https://github.com/ragingwind/learning-pwa - Progressive web app collection articles
 
 https://medium.com/web-on-the-edge/manifoldjs-is-becoming-pwa-builder-to-simplify-building-progressive-web-apps-49bff31f9380#.hpu3vn1ti - Manifold
+https://dev.to/remotesynth/getting-started-with-offline-data-in-web-apps-pt-1-136a - offline data
 
 ### RWD
 
