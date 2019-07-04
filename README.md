@@ -250,6 +250,8 @@ https://blog.machinebox.io/face-verify-js-monitoring-who-is-looking-at-a-website
 ### Flexbox
 
 https://medium.freecodecamp.com/an-animated-guide-to-flexbox-d280cf6afc35#.bo6t7nj8f - how it works (version with pictures :) )
+https://onextrapixel.com/flexbox-centering-guide/ - Flexbox centering guide
+https://onextrapixel.com/learn-flexbox-on-an-example-helpful-and-enlightening-code-snippets/ - flexbox code snippets
 
 ### Grid
 
