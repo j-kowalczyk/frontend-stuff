@@ -271,7 +271,7 @@ https://www.youtube.com/watch?v=1OKZOV-iLj4
 
 ### BEM
 
-*TBD*
+https://www.smashingmagazine.com/2019/07/css-custom-properties-cascade/
 
 ## Performance
 
