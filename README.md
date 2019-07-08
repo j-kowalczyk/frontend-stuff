@@ -42,6 +42,10 @@ https://www.smashingmagazine.com/2018/02/javascript-firefox-debugger/ - Firefox 
 
 https://medium.com/appsflyer/10-tips-for-javascript-debugging-like-a-pro-with-console-7140027eb5f6 - use console object like a pro
 
+https://nodesource.com/blog/improve-javascript-performance - some 12 general tips for Angular performance
+
+https://media-codings.com/articles/automatically-detect-memory-leaks-with-puppeteer - Detect memory leaks with Puppeteer
+
 
 ## ES2015/6+ 
 
@@ -62,6 +66,7 @@ https://philna.sh/blog/2017/02/09/toast-to-es2015-destructuring/ - destructuring
 
 ### Proxy
 https://github.com/paraboul/between/ - use of Proxy
+https://www.youtube.com/watch?v=4Nb9Gwp2L24&list=PLfIM4SvaiIyygQEe2WPpENwxIf-0agBr9&index=12
 
 ### async/await
 
@@ -84,6 +89,8 @@ https://hacks.mozilla.org/2018/01/making-webassembly-even-faster-firefoxs-new-st
 https://webassembly.studio/
 
 https://github.com/streamich/ass-js - Assembler JS
+
+https://v8.dev/blog/emscripten-llvm-wasm
 
 ### In general
 https://www.youtube.com/watch?v=3pKNRgResq0 - "The future of ES6" (Jafar Husain) - Full Stack Fest 2016
@@ -141,6 +148,8 @@ https://www.youtube.com/watch?v=KVjaVHZG32w - testing Angular components fundame
 
 https://colorlib.com/wp/angular-components/ - a collection of nice reusable Angular components
 
+https://www.telerik.com/blogs/17-angular-libraries-you-should-know-about?utm_medium=email - the most common and useful Angular libaries
+
 ### Ember
 
 http://www.jeffreybiles.com/build-pacman/ - Great tutorial. It's about Ember, but it mostly about gamedev, maths and Canvas. There also some concept of the OOP, modules, arrow functions and other ES6 stuff in practice. Each chapter is preceded by short story which is greate. SImplicity of the language used here's nice too. It's good for unexperienced such as experienced developers. Some bad things happens at chapter 13-14, but if we survive it, later everything will be awesome in next place.
@@ -173,6 +182,8 @@ https://github.com/vuetifyjs/vuetify
 
 https://github.com/pulsardev/vue-tour - vue-tour plugin
 
+https://www.smashingmagazine.com/2019/07/using-slots-vue-js/ - Slots
+
 ### React
 
 https://www.youtube.com/watch?v=pLvrZPSzHxo - Immutable UIs
@@ -188,6 +199,10 @@ https://javascriptplayground.com/testing-react-enzyme-jest/#video-list - testing
 ### Aurelia
 
 http://aurelia.io/blog/2018/01/03/aurelia-2018-roadmap/ 
+
+### Svelte
+
+https://www.thefutureoftheweb.com/blog/svelte-is-the-most-beautiful-framework-ive-ever-seen
 
 ### Compile-to-JS languages
 
@@ -242,6 +257,8 @@ https://www.telerik.com/blogs/how-to-javascript-in-2018
 https://github.com/yangshun/front-end-interview-handbook - answers on frontend interviews
 
 https://blog.machinebox.io/face-verify-js-monitoring-who-is-looking-at-a-website-for-additional-security-1d6025a8fedd
+
+https://frappe.io/charts - charts
 
 ---
 
@@ -332,6 +349,8 @@ https://www.smashingmagazine.com/2018/01/drag-drop-file-uploader-vanilla-js/
 https://github.com/lukeed/sockette - WS library
 
 https://medium.com/containers-on-aws/building-a-socket-io-chat-app-and-deploying-it-using-aws-fargate-86fd7cbce13f - chat app
+
+https://getstream.io/chat/get_started/ - Use Chat API
 
 ### WebStorage
 
