@@ -150,6 +150,8 @@ https://colorlib.com/wp/angular-components/ - a collection of nice reusable Angu
 
 https://www.telerik.com/blogs/17-angular-libraries-you-should-know-about?utm_medium=email - the most common and useful Angular libaries
 
+https://www.youtube.com/watch?v=HJ7Zxkz6iJ0 - Unit testing best practices
+
 ### Ember
 
 http://www.jeffreybiles.com/build-pacman/ - Great tutorial. It's about Ember, but it mostly about gamedev, maths and Canvas. There also some concept of the OOP, modules, arrow functions and other ES6 stuff in practice. Each chapter is preceded by short story which is greate. SImplicity of the language used here's nice too. It's good for unexperienced such as experienced developers. Some bad things happens at chapter 13-14, but if we survive it, later everything will be awesome in next place.
