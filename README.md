@@ -46,6 +46,8 @@ https://nodesource.com/blog/improve-javascript-performance - some 12 general tip
 
 https://media-codings.com/articles/automatically-detect-memory-leaks-with-puppeteer - Detect memory leaks with Puppeteer
 
+https://calibreapp.com/blog/how-pagespeed-works/
+
 
 ## ES2015/6+ 
 
@@ -273,6 +275,7 @@ https://frappe.io/charts - charts
 https://medium.freecodecamp.com/an-animated-guide-to-flexbox-d280cf6afc35#.bo6t7nj8f - how it works (version with pictures :) )
 https://onextrapixel.com/flexbox-centering-guide/ - Flexbox centering guide
 https://onextrapixel.com/learn-flexbox-on-an-example-helpful-and-enlightening-code-snippets/ - flexbox code snippets
+https://flexboxfroggy.com/ - flexbox froggy game
 
 ### Grid
 
@@ -283,6 +286,7 @@ https://www.youtube.com/watch?v=axVw1Zduqn0
 http://igalia.github.io/css-grid-layout/enable.html
 
 https://www.youtube.com/watch?v=7kVeCqQCxlk - "CSS Grid Changes Everything"
+https://stephaniewalter.design/blog/fun-places-to-learn-css-layout-part-2-grid-layout/ - list of fun places of grid layout
 
 ## Methodologies
 
@@ -311,6 +315,10 @@ https://css-tricks.com/box-sizing/ - box-sizing
 http://phrogz.net/css/vertical-align/ - how to center vertically
 
 https://medium.com/actualize-network/modern-css-explained-for-dinosaurs-5226febe3525
+
+https://medium.com/@elad/css-architecture-for-multiple-websites-ad696c9d334 - CSS architecture for multiple websites
+
+https://css-tricks.com/a-little-reminder-that-pseudo-elements-are-children-kinda/ - what are :before and :after elements are?
 
 ---
 
@@ -448,6 +456,8 @@ https://dev.to/remotesynth/getting-started-with-offline-data-in-web-apps-pt-1-13
 http://www.creativebloq.com/rwd/responsive-design-problems-12142790 - 8 RWD problems
 
 http://bradfrost.com/blog/web/responsive-nav-patterns/ - responsive patterns
+
+https://polypane.rocks/blog/responsive-design-ground-rules - 10 general principles about RWD
 
 ### Hybrid Apps
 
