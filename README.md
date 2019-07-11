@@ -459,6 +459,8 @@ http://bradfrost.com/blog/web/responsive-nav-patterns/ - responsive patterns
 
 https://polypane.rocks/blog/responsive-design-ground-rules - 10 general principles about RWD
 
+https://codyhouse.co/blog/post/responsive-layouts-css-custom-properties-em-units - An approach to responsive layouts based on CSS custom properties and em units
+
 ### Hybrid Apps
 
 https://remysharp.com/2016/05/28/state-of-the-gap - State of the gap (2016)
