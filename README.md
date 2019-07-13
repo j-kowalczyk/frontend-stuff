@@ -69,6 +69,7 @@ https://philna.sh/blog/2017/02/09/toast-to-es2015-destructuring/ - destructuring
 ### Proxy
 https://github.com/paraboul/between/ - use of Proxy
 https://www.youtube.com/watch?v=4Nb9Gwp2L24&list=PLfIM4SvaiIyygQEe2WPpENwxIf-0agBr9&index=12
+https://www.stefanjudis.com/today-i-learned/interfere-constructor-calls-with-es6-proxies/ - interfering constructor calls with Proxies
 
 ### async/await
 
@@ -287,6 +288,7 @@ http://igalia.github.io/css-grid-layout/enable.html
 
 https://www.youtube.com/watch?v=7kVeCqQCxlk - "CSS Grid Changes Everything"
 https://stephaniewalter.design/blog/fun-places-to-learn-css-layout-part-2-grid-layout/ - list of fun places of grid layout
+https://www.stefanjudis.com/today-i-learned/ - interesting use-case of grid layout
 
 ## Methodologies
 
@@ -297,6 +299,15 @@ https://www.youtube.com/watch?v=1OKZOV-iLj4
 ### BEM
 
 https://www.smashingmagazine.com/2019/07/css-custom-properties-cascade/
+
+### OOCSS
+
+https://www.keycdn.com/blog/oocss
+http://oocss.org/
+
+### SMACSS
+
+
 
 ## Performance
 
