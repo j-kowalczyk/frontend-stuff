@@ -4,8 +4,7 @@ Presentations, videos, texts, link for frontend.
 Feel free to  use it and pull request!
 
 ## JS (General)
-![screenshot]
-(http://pluspng.com/img-png/logo-javascript-png-html-code-allows-to-embed-javascript-logo-in-your-website-587.png)
+![screenshot](http://pluspng.com/img-png/logo-javascript-png-html-code-allows-to-embed-javascript-logo-in-your-website-587.png)
 
 ### Closures
 
@@ -52,6 +51,8 @@ https://calibreapp.com/blog/how-pagespeed-works/
 
 
 ## ES2015/6+ 
+![ES6 logo]
+(http://www.bobbyberberyan.com/wp-content/uploads/2016/12/ES6LOGO.svg)
 
 ### Promises
 
@@ -132,6 +133,7 @@ https://slidr.io/mathiasbynens/what-s-new-in-es2018#7 - ES2018 presentation
 ## Frameworks
 
 ### AngularJS
+![AngularJS](https://www.datasmartsrl.it/wp-content/uploads/2017/08/angular.png)
 
 http://www.angularbasics.co.uk/?Id=99# - nice(r than Google's) Angular documentation
 
@@ -140,6 +142,7 @@ https://github.com/johnpapa/angular-styleguide#style-y080 - Angular styleguides 
 http://www.codelord.net/2015/12/17/angulars-component-what-is-it-good-for/ - Angular's 1.5 Components decribed
 
 ### Angular
+![Angular](https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/000/300/full/angular2.png)
 
 https://ponyfoo.com/articles/setting-up-angular-2-development-environment - setting up the Angular2 development
 
@@ -158,10 +161,12 @@ https://www.telerik.com/blogs/17-angular-libraries-you-should-know-about?utm_med
 https://www.youtube.com/watch?v=HJ7Zxkz6iJ0 - Unit testing best practices
 
 ### Ember
+![Ember](https://emberjs.com/images/tomster-sm-45d6007ea34621fb603f29bd6a77798a.png)
 
 http://www.jeffreybiles.com/build-pacman/ - Great tutorial. It's about Ember, but it mostly about gamedev, maths and Canvas. There also some concept of the OOP, modules, arrow functions and other ES6 stuff in practice. Each chapter is preceded by short story which is greate. SImplicity of the language used here's nice too. It's good for unexperienced such as experienced developers. Some bad things happens at chapter 13-14, but if we survive it, later everything will be awesome in next place.
 
 ### Vue
+![Vue](https://cdn-images-1.medium.com/max/1200/1*yeAO-nwsAqnzr7k-zoDkoQ.png)
 
 https://frontstuff.io/build-your-first-vue-js-component
 
@@ -192,6 +197,7 @@ https://github.com/pulsardev/vue-tour - vue-tour plugin
 https://www.smashingmagazine.com/2019/07/using-slots-vue-js/ - Slots
 
 ### React
+![React](https://cdn.auth0.com/blog/react-js/react.png)
 
 https://www.youtube.com/watch?v=pLvrZPSzHxo - Immutable UIs
 
@@ -204,10 +210,12 @@ http://www.hygen.io/ - tool for use with React
 https://javascriptplayground.com/testing-react-enzyme-jest/#video-list - testing
 
 ### Aurelia
+![Aurelia](https://pbs.twimg.com/profile_images/593873783775227909/x4aCxjYk_400x400.png)
 
 http://aurelia.io/blog/2018/01/03/aurelia-2018-roadmap/ 
 
 ### Svelte
+![Svelte](https://avatars3.githubusercontent.com/u/23617963?s=280&v=4)
 
 https://www.thefutureoftheweb.com/blog/svelte-is-the-most-beautiful-framework-ive-ever-seen
 
@@ -222,8 +230,10 @@ https://www.youtube.com/watch?v=0ChtcZmb3dI - TS
 https://blogs.msdn.microsoft.com/typescript/2018/01/31/announcing-typescript-2-7/ - TS 2.7
 
 ### RxJS
+![RxJS](http://www.angular.love/wp-content/uploads/2018/07/rxjs-1440x469.png)
 
 https://www.learnrxjs.io/
+https://rxviz.com/
 
 ### Other
 
@@ -270,6 +280,7 @@ https://frappe.io/charts - charts
 ---
 
 ## CSS
+![CSS3](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png)
 
 ## Rules
 
@@ -308,7 +319,7 @@ https://www.keycdn.com/blog/oocss
 http://oocss.org/
 
 ### SMACSS
-
+http://smacss.com/
 
 
 ## Performance
@@ -336,6 +347,7 @@ https://css-tricks.com/a-little-reminder-that-pseudo-elements-are-children-kinda
 ---
 
 ## HTML5
+![HTML5](https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png)
 
 ### General
 
@@ -402,6 +414,7 @@ https://blog.sessionstack.com/how-javascript-works-webrtc-and-the-mechanics-of-p
 ## Tools
 
 ### Webpack
+![Webpack](https://fast-eliostruyf.azureedge.net/wp-content/uploads/2016/10/101116_0811_Gettingupto1.png)
 
 https://www.youtube.com/watch?v=WQue1AN93YU - intro
 
@@ -505,6 +518,7 @@ https://uxplanet.org/building-great-mobile-forms-2fa8e9a258cc#.suhi4djtv - makin
 ---
 
 ## NodeJS
+![Node](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png)
 
 https://nemethgergely.com/nodejs-best-practices-how-to-become-a-better-developer-in-2018/
 
