@@ -4,6 +4,7 @@ Presentations, videos, texts, link for frontend.
 Feel free to  use it and pull request!
 
 ## JS (General)
+(http://pluspng.com/img-png/logo-javascript-png-html-code-allows-to-embed-javascript-logo-in-your-website-587.png)
 
 ### Closures
 
