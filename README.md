@@ -373,7 +373,7 @@ https://www.smashingmagazine.com/2018/01/drag-drop-file-uploader-vanilla-js/
 
 ### Audio/Video API
 
-*TBD*
+https://mux.com/articles/how-to-build-your-own-live-streaming-app-with-mux-video - build streaming with Mux
 
 ### Offline AppCache
 
