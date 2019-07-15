@@ -142,7 +142,6 @@ https://github.com/johnpapa/angular-styleguide#style-y080 - Angular styleguides 
 http://www.codelord.net/2015/12/17/angulars-component-what-is-it-good-for/ - Angular's 1.5 Components decribed
 
 ### Angular
-![Angular](https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/000/300/full/angular2.png)
 
 https://ponyfoo.com/articles/setting-up-angular-2-development-environment - setting up the Angular2 development
 
@@ -166,7 +165,6 @@ https://www.youtube.com/watch?v=HJ7Zxkz6iJ0 - Unit testing best practices
 http://www.jeffreybiles.com/build-pacman/ - Great tutorial. It's about Ember, but it mostly about gamedev, maths and Canvas. There also some concept of the OOP, modules, arrow functions and other ES6 stuff in practice. Each chapter is preceded by short story which is greate. SImplicity of the language used here's nice too. It's good for unexperienced such as experienced developers. Some bad things happens at chapter 13-14, but if we survive it, later everything will be awesome in next place.
 
 ### Vue
-![Vue](https://cdn-images-1.medium.com/max/1200/1*yeAO-nwsAqnzr7k-zoDkoQ.png)
 
 https://frontstuff.io/build-your-first-vue-js-component
 
@@ -197,7 +195,6 @@ https://github.com/pulsardev/vue-tour - vue-tour plugin
 https://www.smashingmagazine.com/2019/07/using-slots-vue-js/ - Slots
 
 ### React
-![React](https://cdn.auth0.com/blog/react-js/react.png)
 
 https://www.youtube.com/watch?v=pLvrZPSzHxo - Immutable UIs
 
@@ -280,7 +277,6 @@ https://frappe.io/charts - charts
 ---
 
 ## CSS
-![CSS3](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png)
 
 ## Rules
 
@@ -533,6 +529,7 @@ https://hackernoon.com/debugging-node-without-restarting-processes-bd5d5c98f200 
 ## Security
 
 https://scotthelme.co.uk/protect-site-from-cryptojacking-csp-sri/
+https://www.youtube.com/watch?v=2cyib2MgvdM - Analysis of an Exploited NPM Package
 
 ## Not sorted
 
