@@ -462,6 +462,8 @@ https://hreftools.com/ - JS compressor, OCR, CSV to JSON and few other tools. No
 
 https://github.com/wearehive/project-guidelines - few advices on creating frontend projects
 
+//usnplash.it/X/Y - put on X and Y resolution in pixels and you'll have image
+
 ---
 
 ## Mobile
