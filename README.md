@@ -159,6 +159,8 @@ https://www.telerik.com/blogs/17-angular-libraries-you-should-know-about?utm_med
 
 https://www.youtube.com/watch?v=HJ7Zxkz6iJ0 - Unit testing best practices
 
+https://indepth.dev/the-essential-difference-between-pure-and-impure-pipes-in-angular-and-why-that-matters/ - pure and impure pipes
+
 ### Ember
 ![Ember](https://emberjs.com/images/tomster-sm-45d6007ea34621fb603f29bd6a77798a.png)
 
