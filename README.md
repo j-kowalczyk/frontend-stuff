@@ -342,6 +342,8 @@ https://medium.com/@elad/css-architecture-for-multiple-websites-ad696c9d334 - CS
 
 https://css-tricks.com/a-little-reminder-that-pseudo-elements-are-children-kinda/ - what are :before and :after elements are?
 
+https://tympanus.net/codrops/2014/06/19/ideas-for-subtle-hover-effects/ - nice ideas for hover
+
 ---
 
 ## HTML5
