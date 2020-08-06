@@ -161,6 +161,8 @@ https://www.youtube.com/watch?v=HJ7Zxkz6iJ0 - Unit testing best practices
 
 https://indepth.dev/the-essential-difference-between-pure-and-impure-pipes-in-angular-and-why-that-matters/ - pure and impure pipes
 
+https://juristr.com/blog/2019/09/debugging-angular-ivy-console/ - debugging Angular with Augury
+
 ### Ember
 ![Ember](https://emberjs.com/images/tomster-sm-45d6007ea34621fb603f29bd6a77798a.png)
 
