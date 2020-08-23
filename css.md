@@ -6,6 +6,6 @@ https://mycolor.space/?hex=%23845EC2&sub=1 https://mycolor.space - color palette
 
 https://meyerweb.com/eric/tools/color-blend/#CC0000:000000:10:rgbp https://meyerweb.com/eric/tools/color-blend - color blender
 
-http://paletton.com
+http://paletton.com - round with colors
 
-https://www.cssmania.com/colors/
+https://www.cssmania.com/colors/ - colors list
